@@ -1,6 +1,6 @@
 ## Description
 
-이 프로젝트는 NestJs를 이용해서 GCP Pub/Sub 서비스의 client 를 빠르게 셋팅하기 위한 template 을 제공합니다.
+이 프로젝트는 NestJS를 이용하여 GCP Pub/Sub 서비스를 연동한 서비스를 빠르게 개발하기 위한 boilerplate 을 제공합니다.
 
 ## 환경 변수 설정
 
